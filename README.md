@@ -1,4 +1,11 @@
-<h3 align="left"># 💫 About Me:<br>🔭 I’m currently working on **various web development projects, exploring both front-end and back-end technologies.**  <br>🌱 I’m currently studying at **YouCode, focusing on full-stack development.**  <br>👯 I’m looking to collaborate on **JavaScript, PHP, web applications, and back-end development.**  <br>💬 Ask me about **HTML, CSS, JavaScript, PHP, C programming, GitHub, and web development best practices.**  <br>📫 How to reach me:  <br>[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid.lagz9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-abid)  <br>⚡ Fun fact: **I started coding in C before transitioning to web development, and I love exploring how different programming languages connect!**</h3>
+# 💫 About Me:
+🔭 I’m currently working on **various web development projects, exploring both front-end and back-end technologies.**  
+🌱 I’m currently studying at **YouCode, focusing on full-stack development.**  
+👯 I’m looking to collaborate on **JavaScript, PHP, web applications, and back-end development.**  
+💬 Ask me about **HTML, CSS, JavaScript, PHP, C programming, GitHub, and web development best practices.**  
+📫 How to reach me:  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid.lagz9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-abid)  
+⚡ Fun fact: **I started coding in C before transitioning to web development, and I love exploring how different programming languages connect!**  
 
 ###
 
