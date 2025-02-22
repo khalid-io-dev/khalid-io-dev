@@ -9,10 +9,19 @@
 - ⚡ Fun fact: **I started coding in C before transitioning to web development, and I love exploring how different programming languages connect!**
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-abid)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalid.lagz9@gmail.com)
-
-## 💻 Tech Stack
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://www.linkedin.com/in/khalid-abid">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:khalid.lagz9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+  <div style="margin-left: auto;">
+    <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kzN21xbHFiNXp0NTNkNjYyMDNkNXF0OGs4OGxybWhrMzVoY3JpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id6dC0GQOOzPMXgcPv/giphy.gif"/>
+  </div>
+</div>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,6 +60,8 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
@@ -61,16 +72,11 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-    <td style="padding-left: 500px;">
-      <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kzN21xbHFiNXp0NTNkNjYyMDNkNXF0OGs4OGxybWhrMzVoY3JpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id6dC0GQOOzPMXgcPv/giphy.gif"/>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aabid-io-khalid&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
