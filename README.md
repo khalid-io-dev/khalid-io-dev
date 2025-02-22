@@ -64,16 +64,19 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="33%"></td> <!-- Empty left space to keep Top Languages in the center -->
+    <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
-    <td>
+    <td align="right" width="33%">
       <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kzN21xbHFiNXp0NTNkNjYyMDNkNXF0OGs4OGxybWhrMzVoY3JpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id6dC0GQOOzPMXgcPv/giphy.gif"/>
     </td>
   </tr>
 </table>
+
+
 
 
 ## 🏆 GitHub Trophies
