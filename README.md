@@ -53,15 +53,23 @@
 
 ## 📊 GitHub Stats
 
-<div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aabid-io-khalid&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabid-io-khalid&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kzN21xbHFiNXp0NTNkNjYyMDNkNXF0OGs4OGxybWhrMzVoY3JpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id6dC0GQOOzPMXgcPv/giphy.gif"/>
+  <br>
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kzN21xbHFiNXp0NTNkNjYyMDNkNXF0OGs4OGxybWhrMzVoY3JpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Id6dC0GQOOzPMXgcPv/giphy.gif"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aabid-io-khalid&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
