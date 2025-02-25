@@ -1,3 +1,5 @@
+![Cover Image](Cover2.png)
+
 # 👨‍💻 Khalid Abid | Full Stack Developer
 
 ## 💫 About Me
