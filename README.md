@@ -85,18 +85,18 @@
       <img src="https://github-readme-stats.vercel.app/api?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabid-io-khalid&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.vercel.app?user=aabid-io-khalid&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabid-io-khalid&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aabid-io-khalid&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=aabid-io-khalid&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+
 
 ## 🐍 Contribution Graph
 <picture>
